@@ -1,0 +1,2 @@
+# Nobelprize.java
+one shot
