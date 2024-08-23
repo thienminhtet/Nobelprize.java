@@ -9,6 +9,6 @@ public class August25{
 	max = x;
 }
 }
-	System .out. println( "Å‘å’l‚Í" + max  ) ;
+	System .out. println( "æœ€å¤§å€¤" + max  ) ;
     }
 }
